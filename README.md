@@ -1,4 +1,6 @@
 #FreeCodeCamp>>>Front End Libraries Projects - Build a Drum Machine
+![freecodecamp](https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png)
+
 Question Link:	https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-drum-machine
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/MJyNMd.
@@ -24,4 +26,4 @@ You can build your project by forking this CodePen pen. Or you can use this CDN 
 Once you're done, submit the URL to your working project with all its tests passing.
 
 
-Solution Link(Live Site):	 
+Solution Link(Live Site):	 http://parkourcode.me/Build-a-Drum-Machine/
